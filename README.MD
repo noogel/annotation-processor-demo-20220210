@@ -1,11 +1,17 @@
 # 插入式注解处理器 DEMO
 
+## env
+
+java11
+
 ## debug
 
 ① idea
 
 Run > Edit Configurations…
+
 Add New Configuration (Type: Remote)
+
 Keep all defaults & Just change the port to 8000
 
 ② CLI
