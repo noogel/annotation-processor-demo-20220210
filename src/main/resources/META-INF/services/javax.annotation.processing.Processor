@@ -1,2 +1,3 @@
 noogel.xyz.getter.GetterProcessor
 noogel.xyz.provider.StringProviderProcessor
+noogel.xyz.check_style.NameCheckerProcessor
